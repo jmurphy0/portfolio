@@ -1,5 +1,12 @@
-/* .App {
+.App {
   text-align: center;
+  background-image: url("../../imgs/bgalt2.jpg");
+  position: fixed;
+  min-width: 100%;
+  min-height: 100%;
+  background-size: cover;
+
+  background-repeat: repeat-y;
 }
 
 .App-logo {
@@ -11,10 +18,9 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
-} */
+}
 
 .App-header {
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;

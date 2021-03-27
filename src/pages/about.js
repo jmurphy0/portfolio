@@ -5,7 +5,7 @@ function About() {
   return (
     <Hero>
       <div>
-        <div class="container-m md-auto content" id="aboutContainer">
+        <div class="container-m  content" id="aboutContainer">
           <div class="row">
             <div class="col-md-8 cards card text-white bg-dark mb-3">
               <h1>About Me</h1>

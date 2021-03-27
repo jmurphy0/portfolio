@@ -10,10 +10,6 @@ function Portfolio() {
   Projectdata.forEach((project) => {
     cards.push(Card(project));
   });
-  return (
-    <Hero>
-      <div>{cards}</div>
-    </Hero>
-  );
+  return <Hero>{cards}</Hero>;
 }
 export default Portfolio;
