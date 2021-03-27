@@ -4,7 +4,10 @@ import bgimg from "../../imgs/bgalt2.jpg";
 
 function Hero(props) {
   return (
-    <div className="hero text-center" style={{ backgroundImage: bgimg }}>
+    <div
+      className="hero text-center"
+      style={{ backgroundImage: `url(${bgimg})` }}
+    >
       {props.children}
     </div>
   );
