@@ -1,0 +1,25 @@
+.btn {
+  margin: 5;
+  padding: 5;
+}
+.ptitle {
+  text-decoration: underline;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+.text {
+  color: white;
+}
+
+.img-thumbnail {
+  opacity: 100%;
+  margin-bottom: 5px;
+}
+#card {
+  margin-top: 5%;
+  margin: auto;
+  background-color: #121212;
+  border-radius: 15px;
+  opacity: 90%;
+}
