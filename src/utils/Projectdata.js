@@ -7,14 +7,37 @@ const Projectdata = [
     liveLink: "https://panther-chatroom.herokuapp.com/",
     githubLink: "https://github.com/PurplePanthers/PantherChatroom.git",
   },
+    {
+    title: "",
+    description: "",
+    img: "",
+    liveLink: "",
+    githubLink: "",
+  },
+    {
+    title: "Budget Tracker",
+    description: "Keeps track of your money, regadless of your internet connection using index db. Deployed on Heroku.",
+    img: "imgs/budget.png",
+    liveLink: "https://murphybudget.herokuapp.com/",
+    githubLink: "https://github.com/jmurphy0/budgetTracker.git",
+  },
+  {
+    title: "Fitness Dahboard",
+    description:
+      "This app is designed to keep track of your workouts (stored to mongoatlas) and allows your to view results of total duration and weight lifted. Deployed on heroku.",
+    img: "imgs/stats.png",
+    liveLink:
+      "https://murphyworkout.herokuapp.com/exercise?id=6052776c2b9b1a00159ae570",
+    githubLink: "https://github.com/jmurphy0/workoutTracker.git",
+  },
+  
   {
     title: "Note Taker",
-    description:
-      "A simple app to takes notes online. Deployed by heroku and ready to keep you organized!",
+    description: "A simple app to takes notes online. Deployed by heroku and ready to keep you organized!",
     img: "imgs/notTaker.png",
     liveLink: "https://note-taker-murphy.herokuapp.com/",
     githubLink: "https://github.com/jmurphy0/hmwk10-NoteTaker.git",
-  },
+  }),
   {
     title: "Art Mapper",
     description:
@@ -39,13 +62,7 @@ const Projectdata = [
     liveLink: "https://jmurphy0.github.io/homework5/",
     githubLink: "https://jmurphy0.github.io/homework5/",
   },
-  // {
-  //   title: "",
-  //   description: "",
-  //   img: "",
-  //   liveLink: "",
-  //   githubLink: "",
-  // },
+
   // {
   //   title: "",
   //   description: "",
