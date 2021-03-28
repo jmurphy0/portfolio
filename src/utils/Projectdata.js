@@ -11,7 +11,7 @@ const Projectdata = [
     title: "Employee Directory",
     description:
       "A react project using React Bootstrap Datatables exploring sorting and searching from API data.",
-    img: "imgs/directory.png",
+    img: "../../public/imgs/directory.png",
     liveLink: "https://jmurphy0.github.io/employeedirectory/",
     githubLink: "https://github.com/jmurphy0/gooddirectory.git",
   },
@@ -19,7 +19,7 @@ const Projectdata = [
     title: "Budget Tracker",
     description:
       "Keeps track of your money, regadless of your internet connection using index db. Deployed on Heroku.",
-    img: "imgs/budget.png",
+    img: "../../public/imgs/budget.png",
     liveLink: "https://murphybudget.herokuapp.com/",
     githubLink: "https://github.com/jmurphy0/budgetTracker.git",
   },
