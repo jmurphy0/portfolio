@@ -9,16 +9,21 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
+    //using router for pathing
     <Router>
+      {/* Navbar at the top of each page  */}
       <Navbar />
+      {/* wrapper component to wrap pages in a div */}
       <Wrapper>
         <>
+          {/* routes to about contact and portfolio */}
           <Route exact path="/" component={About} />
           <Route exact path="/About" component={About} />
           <Route exact path="/Contact" component={Contact} />
           <Route exact path="/Portfolio" component={Portfolio} />
         </>
       </Wrapper>
+      {/* sticky footer for each page  */}
       <Footer />
     </Router>
   );
