@@ -1,7 +1,7 @@
 import React from "react";
 import Hero from "../../components/Hero";
 import "./style.css";
-
+// returns a card contation the about me information. wrapped in the hero background image.
 function About() {
   return (
     <Hero>
