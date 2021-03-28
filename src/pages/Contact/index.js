@@ -1,6 +1,8 @@
+// getting required inputs
 import React from "react";
 import Hero from "../../components/Hero";
-
+import "./style.css";
+// returns an imput form for email contact. wrapped in hero component tags for bg image.
 function Contact() {
   return (
     <Hero>
