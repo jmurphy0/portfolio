@@ -1,9 +1,10 @@
+import img from "../imgs";
 const Projectdata = [
   {
     title: "Panther Chat",
     description:
       "A full-stack web application for chatting with friends or meeting new people!",
-    img: "../main-room.JPG",
+    img: "img.main-room.JPG",
     liveLink: "https://panther-chatroom.herokuapp.com/",
     githubLink: "https://github.com/PurplePanthers/PantherChatroom.git",
   },
@@ -11,7 +12,7 @@ const Projectdata = [
     title: "Employee Directory",
     description:
       "A react project using React Bootstrap Datatables exploring sorting and searching from API data.",
-    img: "../../public/imgs/directory.png",
+    img: "img/directory.png",
     liveLink: "https://jmurphy0.github.io/employeedirectory/",
     githubLink: "https://github.com/jmurphy0/gooddirectory.git",
   },
