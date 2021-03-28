@@ -42,7 +42,7 @@ function About() {
                         <i class="bi bi-linkedin"></i>
                       </button>
                     </a>
-                    <a href="assets/JMurphyResume.pdf" download>
+                    <a href="imgs/JMurphyResume.pdf" download>
                       <button class="btn btn-secondary mt-1">
                         John's resume
                       </button>
