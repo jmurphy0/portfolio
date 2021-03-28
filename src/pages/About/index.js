@@ -1,11 +1,13 @@
 import React from "react";
 import Hero from "../../components/Hero";
 import "./style.css";
-import myPic from "../../imgs/myPic.JPEG";
+import Path from "path";
+import myPic from "../../../public/myPic.jpeg";
 // returns a card contation the about me information. wrapped in the hero background image.
 function About() {
   return (
     <Hero>
+      z
       <div>
         <div class="container-m  content" id="aboutContainer">
           <div class="row">
