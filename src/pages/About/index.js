@@ -3,6 +3,7 @@ import Hero from "../../components/Hero";
 import "./style.css";
 import Path from "path";
 import myPic from "../../imgs/myPic.jpeg";
+import Resume from "../../imgs/JMurphyResume.pdf";
 // returns a card contation the about me information. wrapped in the hero background image.
 function About() {
   return (
@@ -45,7 +46,7 @@ function About() {
                         <i class="bi bi-linkedin"></i>
                       </button>
                     </a>
-                    <a href="imgs/JMurphyResume.pdf" download>
+                    <a href={Resume} download>
                       <button class="btn btn-secondary mt-1">
                         John's resume
                       </button>
