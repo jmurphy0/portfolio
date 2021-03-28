@@ -7,16 +7,18 @@ const Projectdata = [
     liveLink: "https://panther-chatroom.herokuapp.com/",
     githubLink: "https://github.com/PurplePanthers/PantherChatroom.git",
   },
-    {
+  {
     title: "Employee Directory",
-    description: "A react project using React Bootstrap Datatables exploring sorting and searching from API data.",
+    description:
+      "A react project using React Bootstrap Datatables exploring sorting and searching from API data.",
     img: "imgs/directory.png",
     liveLink: "https://jmurphy0.github.io/employeedirectory/",
     githubLink: "https://github.com/jmurphy0/gooddirectory.git",
   },
-    {
+  {
     title: "Budget Tracker",
-    description: "Keeps track of your money, regadless of your internet connection using index db. Deployed on Heroku.",
+    description:
+      "Keeps track of your money, regadless of your internet connection using index db. Deployed on Heroku.",
     img: "imgs/budget.png",
     liveLink: "https://murphybudget.herokuapp.com/",
     githubLink: "https://github.com/jmurphy0/budgetTracker.git",
@@ -30,14 +32,14 @@ const Projectdata = [
       "https://murphyworkout.herokuapp.com/exercise?id=6052776c2b9b1a00159ae570",
     githubLink: "https://github.com/jmurphy0/workoutTracker.git",
   },
-  
   {
     title: "Note Taker",
-    description: "A simple app to takes notes online. Deployed by heroku and ready to keep you organized!",
+    description:
+      "A simple app to takes notes online. Deployed by heroku and ready to keep you organized!",
     img: "imgs/notTaker.png",
     liveLink: "https://note-taker-murphy.herokuapp.com/",
     githubLink: "https://github.com/jmurphy0/hmwk10-NoteTaker.git",
-  }),
+  },
   {
     title: "Art Mapper",
     description:
