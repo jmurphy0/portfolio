@@ -8,11 +8,11 @@ const Projectdata = [
     githubLink: "https://github.com/PurplePanthers/PantherChatroom.git",
   },
     {
-    title: "",
-    description: "",
-    img: "",
-    liveLink: "",
-    githubLink: "",
+    title: "Employee Directory",
+    description: "A react project using React Bootstrap Datatables exploring sorting and searching from API data.",
+    img: "imgs/directory.png",
+    liveLink: "https://jmurphy0.github.io/employeedirectory/",
+    githubLink: "https://github.com/jmurphy0/gooddirectory.git",
   },
     {
     title: "Budget Tracker",
