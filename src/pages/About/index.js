@@ -1,6 +1,7 @@
 import React from "react";
 import Hero from "../../components/Hero";
 import "./style.css";
+import myPic from "../../imgs/myPic.JPEG";
 // returns a card contation the about me information. wrapped in the hero background image.
 function About() {
   return (
@@ -13,7 +14,7 @@ function About() {
               <div class="row">
                 <div class="col-md-3">
                   <img
-                    src="src/imgs/myPic.JPEG"
+                    src={myPic}
                     class="img-thumbnail mb-3 border-0 bg-dark"
                     alt="j murphy"
                   />
