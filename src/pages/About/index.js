@@ -1,5 +1,6 @@
 import React from "react";
 import Hero from "../../components/Hero";
+import "./style.css";
 
 function About() {
   return (
