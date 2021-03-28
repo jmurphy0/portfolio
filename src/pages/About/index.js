@@ -13,7 +13,7 @@ function About() {
               <div class="row">
                 <div class="col-md-3">
                   <img
-                    src="../imgs/myPic.jpeg"
+                    src="src/imgs/myPic.JPEG"
                     class="img-thumbnail mb-3 border-0 bg-dark"
                     alt="j murphy"
                   />
