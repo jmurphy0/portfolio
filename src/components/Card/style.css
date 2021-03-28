@@ -21,4 +21,6 @@
   background-color: #121212;
   border-radius: 15px;
   opacity: 90%;
+  justify-content: center;
+  align-items: center;
 }
