@@ -19,7 +19,7 @@ const Projectdata = [
     title: "Budget Tracker",
     description:
       "Keeps track of your money, regadless of your internet connection using index db. Deployed on Heroku.",
-    img: "../../public/imgs/budget.png",
+    img: "./budget.png",
     liveLink: "https://murphybudget.herokuapp.com/",
     githubLink: "https://github.com/jmurphy0/budgetTracker.git",
   },
