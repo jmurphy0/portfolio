@@ -2,7 +2,7 @@ import React from "react";
 import Hero from "../../components/Hero";
 import "./style.css";
 import Path from "path";
-import myPic from "../../../public/myPic.jpeg";
+import myPic from "../../imgs/myPic.jpeg";
 // returns a card contation the about me information. wrapped in the hero background image.
 function About() {
   return (
