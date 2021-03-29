@@ -1,6 +1,8 @@
 # React Portfolio
 
 ![alt text](./public/imgs/updatedAboutMe.png)
+Heroku: https://jmurphy0porfolio.herokuapp.com
+GH-Repo: https://github.com/jmurphy0/portfolio.git
 
 # Table of Contents
 
