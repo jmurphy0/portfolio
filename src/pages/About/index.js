@@ -3,7 +3,7 @@ import Hero from "../../components/Hero";
 import "./style.css";
 import Path from "path";
 import myPic from "../../imgs/myPic.jpeg";
-import Resume from "../../imgs/JMurphyResume.pdf";
+import Resume from "../../imgs/JohnMurphyResume.pdf";
 // returns a card contation the about me information. wrapped in the hero background image.
 function About() {
   return (
