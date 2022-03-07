@@ -25,7 +25,7 @@ function About() {
                 <div id="abtme" class="col-md-8 mb-3 pb-3">
                   <p>
                     {" "}
-                    I am a student at the University of Toronto SCS full-stack
+                    I am a graduate of the University of Toronto SCS full-stack
                     bootcamp. Currently residing in Toronto, Canada. I received
                     my bachelors degree in applied economics from Queen’s
                     University in 2014. Check out my Github and LinkedIn pages
